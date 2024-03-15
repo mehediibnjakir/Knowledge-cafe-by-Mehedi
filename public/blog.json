@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/tBkCBWj/1.jpg",
+        "title": "The Importance of Sleep",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/tBkCBWj/1.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": 10,
+        "hashtags": [
+            "sleep",
+            "health"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/r6nDvcG/2.jpg",
+        "title": "Healthy Eating Habits",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/r6nDvcG/2.jpg",
+        "posted_date": "2024-03-11",
+        "reading_time": 8,
+        "hashtags": [
+            "nutrition",
+            "health"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/tCz1Rpm/3.jpg",
+        "title": "Exercise Tips for Beginners",
+        "author": "Michael Johnson",
+        "author_img": "https://i.ibb.co/tCz1Rpm/3.jpg",
+        "posted_date": "2024-03-10",
+        "reading_time": 12,
+        "hashtags": [
+            "fitness",
+            "exercise"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/jJH4DFc/4.jpg",
+        "title": "Mindfulness Meditation Guide",
+        "author": "Emily Brown",
+        "author_img": "https://i.ibb.co/jJH4DFc/4.jpg",
+        "posted_date": "2024-03-09",
+        "reading_time": 15,
+        "hashtags": [
+            "mindfulness",
+            "meditation"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/D1jjcR5/20231109114240-IMG-1164.jpg",
+        "title": "Stress Management Techniques",
+        "author": "David Wilson",
+        "author_img": "https://i.ibb.co/581dLsF/DSC-0155-17.jpg",
+        "posted_date": "2024-03-08",
+        "reading_time": 10,
+        "hashtags": [
+            "stress",
+            "wellness"
+        ]
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co/Gpr8TBC/openin.jpg",
+        "title": "Boost Your Immune System",
+        "author": "Sarah Johnson",
+        "author_img": "https://i.ibb.co/CHnJ3C5/Whats-App-Image-2023-12-17-at-02-16-46-ebf4c836.jpg",
+        "posted_date": "2024-03-07",
+        "reading_time": 8,
+        "hashtags": [
+            "immunity",
+            "health"
+        ]
+    },
+    {
+        "id": 7,
+        "cover": "https://i.ibb.co/MfXWv2X/IMG-9297.jpg",
+        "title": "Effective Time Management Tips",
+        "author": "Andrew Miller",
+        "author_img": "https://i.ibb.co/L00D2BG/SAVE-20230604-184604.jpg",
+        "posted_date": "2024-03-06",
+        "reading_time": 10,
+        "hashtags": [
+            "productivity",
+            "timeManagement"
+        ]
+    },
+    {
+        "id": 8,
+        "cover": "https://i.ibb.co/FzXJRjg/IMG-9270.jpg",
+        "title": "The Power of Positive Thinking",
+        "author": "Olivia Parker",
+        "author_img": "https://i.ibb.co/MfXWv2X/IMG-9297.jpg",
+        "posted_date": "2024-03-05",
+        "reading_time": 12,
+        "hashtags": [
+            "positivity",
+            "mindset"
+        ]
+    },
+    {
+        "id": 9,
+        "cover": "https://i.ibb.co/L00D2BG/SAVE-20230604-184604.jpg",
+        "title": "Journaling for Mental Health",
+        "author": "Daniel White",
+        "author_img": "https://i.ibb.co/xStNf86/IMG-9266.jpg",
+        "posted_date": "2024-03-04",
+        "reading_time": 10,
+        "hashtags": [
+            "journaling",
+            "mentalhealth"
+        ]
+    },
+    {
+        "id": 10,
+        "cover": "https://i.ibb.co/Pj7ypWD/IMG-9253-1.jpg",
+        "title": "Digital Detox: Unplugging for Wellness",
+        "author": "Sophia Clark",
+        "author_img": "https://i.ibb.co/L00D2BG/SAVE-20230604-184604.jpg",
+        "posted_date": "2024-03-03",
+        "reading_time": 15,
+        "hashtags": [
+            "digitaldetox",
+            "wellness"
+        ]
+    }
+]
